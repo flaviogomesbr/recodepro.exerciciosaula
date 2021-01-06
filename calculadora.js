@@ -1,0 +1,8 @@
+const subt = require('./subtracao')
+const soma = require('./soma')
+const mult = require('./multiplicacao')
+const divisao = require('./divisao')
+console.log(soma(10,5))
+console.log(subt(10,5))
+console.log(mult(10,5))
+console.log(divisao(10,5))
