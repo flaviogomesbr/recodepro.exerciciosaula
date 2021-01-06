@@ -1,5 +1,5 @@
-let divisao = function(x, y) {
+let div = function(x, y) {
     return x / y
 }
 
-module.exports = divisao
+module.exports = div
